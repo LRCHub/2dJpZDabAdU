@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Fatal Trouble",
+  "base_artist": "ENHYPEN",
+  "createdAt": "2026-01-07T10:42:14.842881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fatal Trouble",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/01_Fatal_Trouble_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fatal Trouble",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/02_Fatal_Trouble_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fatal Trouble",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/03_Fatal_Trouble_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fatal Trouble",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/04_Fatal_Trouble_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fatal Trouble",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/05_Fatal_Trouble_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fatal Trouble",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/06_Fatal_Trouble_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fatal Trouble",
+      "artist": "ENHYPEN (엔하이픈)",
+      "has_synced": true,
+      "path": "select/07_Fatal_Trouble_ENHYPEN_(엔하이픈).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fatal Trouble",
+      "artist": "Enhypen",
+      "has_synced": false,
+      "path": "select/08_Fatal_Trouble_Enhypen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fatal Trouble",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/09_Fatal_Trouble_ENHYPEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fatal Trouble",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/pl_01_Fatal_Trouble_ENHYPEN.txt"
+    }
+  ]
+}
